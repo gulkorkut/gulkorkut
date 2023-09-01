@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Gül Korkut</h1>
 
-📫 Mail **serifegulkorkut@gmail.com**
+📫 Reach Me: **serifegulkorkut@gmail.com**
 
 <h3 align="left">Connect:</h3>
 <p align="left">
