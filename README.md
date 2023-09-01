@@ -28,7 +28,7 @@
 
 
 <a href="https://g.dev/gulkorkut">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gulkorkut&layout=compact&theme=github_dark&hide=c" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gulkorkut&layout=compact&theme=github_dark&hide=c&hide=roff&hide=makefile" />
   
 </a>
 
