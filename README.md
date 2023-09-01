@@ -17,11 +17,15 @@
 </p>
 
 
+
+<!--
 <a href="https://g.dev/gulkorkut">
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gulkorkut&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 <br/>
+-->
+
 
 <a href="https://g.dev/gulkorkut">
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gulkorkut&layout=compact&theme=github_dark" />
